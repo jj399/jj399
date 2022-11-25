@@ -1,0 +1,102 @@
+html {
+    height: 100%
+}
+
+
+
+body {
+
+    background-image: url(Images/Approaching_Omaha-DDay.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: black;
+
+}
+
+
+
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
+    color: black;
+}
+
+
+
+
+header {
+
+    height: 118px;
+    text-align: center;
+    ;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+nav {
+    background-color: rgb(0, 0, 0.338);
+
+    ;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -90px;
+    text-align: center;
+    padding-top: 14px;
+    padding-bottom: 14px;
+}
+
+h1 {  /*3 <Heading1> */
+
+    margin: -200px;
+    margin-top: 300px;
+    margin-bottom: 250px;
+    margin-right: 450px;
+    font-size: 84px;
+    color: rgb(255, 255, 255);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+
+
+
+p {
+    
+    margin-top:-140px;
+    margin-left:700px;
+    margin-right:-50px;
+    font-size: 33px;
+    color:rgb(255, 255, 255);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+a {
+    color: rgb(255, 255, 255);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: aliceblue;
+
+}
+
+nav a {
+    text-decoration: none;
+    font-size: 12px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+footer b {
+
+    font-size: 30px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+
+section {
+    margin: 100px;
+    margin-top: 50px;
+    margin-left: 768px;
+    margin-right: 100px;
+}
+
